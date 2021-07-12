@@ -1,0 +1,21 @@
+﻿MinHeight,MaxHieght,Wheelchair,MinGroup,MaxGroup,Zone,Adrenaline,Horror,Kids,Water,Name,xpos,ypos,wait,run
+0,999,Y,0,999,Medieval,N,Y,N,Y,Tower of Terror,457,500,20,10
+1,999,N,0,999,Medieval,Y,N,N,N,The Iron Jaws,280,520,10,5
+0,999,Y,5,6,Medieval,Y,Y,N,Y,Cloister of Cruelty,532,620,15,6
+0.8,1.2,N,0,999,Medieval,N,N,Y,N,Pony Jousts,382,590,20,20
+0,999,Y,1,1,Medieval,Y,Y,N,N,Mystic Fortunes,610,510,5,4
+0,999,Y,4,8,Futuristic,Y,N,Y,Y,Crisis at Farpoint,700,160,20,12
+0,999,Y,0,999,Futuristic,N,N,Y,N,Build a Bot,700,290,15,20
+1.1,999,N,2,6,Futuristic,Y,Y,N,N,Laser Lock,700,420,10,12
+0,1.6,Y,0,999,Futuristic,Y,N,Y,N,Trench Chase,820,350,20,15
+0,999,Y,0,999,Futuristic,Y,Y,Y,N,Robot Conflicts,790,220,15,15
+0,999,N,2,2,Jurassic,Y,Y,N,Y,Rex Rampage,525,220,20,20
+0,1,Y,0,999,Jurassic,N,N,Y,N,Pet a Saur,360,320,5,25
+1,999,N,0,999,Jurassic,Y,N,N,Y,SauroPods,560,320,10,15
+0,999,Y,2,2,Jurassic,Y,N,Y,N,Raptor Races,457,370,10,12
+0,1,Y,0,999,Jurassic,N,N,Y,N,Hatchling Nest,382,220,10,22
+0,999,N,2,2,Industrial,Y,N,Y,N,High Noon,100,230,15,15
+0,999,Y,0,999,Industrial,Y,N,N,N,Hall O Mirrors,100,350,5,10
+0,999,N,3,6,Industrial,Y,Y,Y,N,Steampunk Cups,210,420,5,8
+1,999,Y,2,8,Industrial,Y,Y,N,Y,The Pain Train,210,290,20,10
+0,999,N,0,999,Industrial,Y,Y,Y,Y,The Descent,210,160,10,11
